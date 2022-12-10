@@ -1,2 +1,2 @@
-var color = new Array("#003460","#d8d1c5","#6c216d","#509296","#84a729","#ffee6f","#e18a3b","#d23918");
+var color = new Array("#0E90D2","#5EB95E","#e67e22","#e74C3c");
 // 颜色表
